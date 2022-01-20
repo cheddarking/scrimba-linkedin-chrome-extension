@@ -1,4 +1,4 @@
 # scrimba-linkedin-chrome-extension
-Scrimba Javascript course project
+A [Scrimba Javascript course](https://scrimba.com/learn/learnjavascript) project
 
-A LinkedIn extension for grabbing profile links
+A LinkedIn Chrome extension for grabbing profile links
